@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">BDAlumnosConPHPKotlin</string>
-    <string name="Ejemplo">BDAlumnosConPHPKotlin</string>
+    <string name="Ejemplo">BDAConPHPKotlin</string>
+    <string name="HOola">BDAlumnosConPHPKotlin</string>
 </resources>
